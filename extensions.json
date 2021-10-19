@@ -1,0 +1,11 @@
+{
+  "urls": [
+      "http://pecl.php.net/get/oauth-2.0.7.tgz"
+  ],
+  "pecl": [
+      "xdebug-3.0.4"
+  ],
+  "builtin": [
+      "gd"
+  ]
+}
